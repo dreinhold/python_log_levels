@@ -1,0 +1,1 @@
+# Sample of creating extra log levels in python
